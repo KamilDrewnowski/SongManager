@@ -14,4 +14,6 @@ The program does not allow you to add the same song multiple times, then it adds
 
 The program is covered with Junit unit tests, checking the correctness of the operation of individual methods 
 
+The program was built on the basis of Apache Maven.
+
 Running the program is possible on Linux and Windows systems 
