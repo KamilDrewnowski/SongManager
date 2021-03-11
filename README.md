@@ -18,13 +18,15 @@ Running the program is possible on Linux and Windows systems
 To run the program in Windows:
 
 1. Open the CMD command prompt
-2. Navigate to the directory where the run.bat file is located using the cd command
-3. Enter the command "run.bat"
+2. Navigate to the directory where the compile.bat file is located using the cd command
+3. Enter the command "compile.bat"
+4. Enter the command "run.bat"
 
 To run the program in Linux:
 
 1. Open a command prompt
-2. Navigate to the directory where the run.sh file is located using the cd command
-3. Enter the command "run.sh"
+2. Navigate to the directory where the compile.sh file is located using the cd command
+3. Enter the command "compile.sh"
+4. Enter the command "run.sh"
 
-XML / CSV files that are to be loaded must be located in the ".. \ Java_Boot_Camp \ target" folder 
+XML / CSV files that are to be loaded must be located in the ".. \target" folder 
